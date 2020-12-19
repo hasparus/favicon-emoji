@@ -1,8 +1,11 @@
 {
-  "name": "favicon-emoji",
-  "version": "2.3.0",
+  "name": "@hasparus/favicon-emoji",
+  "version": "2.3.1",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "standard"
   },
